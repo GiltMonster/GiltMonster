@@ -4,10 +4,10 @@
 - 🌱 Ando aprendendo bastantes frameworks, tanto para back-end quanto para o front-end, juntamente com cloud computing.
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/GiltMonster)">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiltMonster&show_icons=true&theme=material-palenight&count_private=true&locale=pt-br" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="[Git](https://github.com/GiltMonster)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiltMonster&hide_progress=true&theme=material-palenight&langs_count=8&locale=pt-br" />
   </a>
 </div>

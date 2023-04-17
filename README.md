@@ -1,8 +1,7 @@
 ### Oii! Eu sou o Lucas 👾🤖🙋‍♂️
 
-
-- 🔭 Hoje eu sou bolsista num projeto full-stack
-- 🌱 Ando aprendendo bastantes frameworks, tanto para back-end quanto para o front-end, juntamente com cloud computing
+- 🔭 Hoje eu sou bolsista que faz parte no desenvolvimento de um projeto de eventos digitais, aonde atuo como desenvolvedor full-stack.
+- 🌱 Ando aprendendo bastantes frameworks, tanto para back-end quanto para o front-end, juntamente com cloud computing.
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,7 +11,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiltMonster&hide_progress=true&theme=material-palenight&langs_count=8&locale=pt-br" />
   </a>
 </div>
-
 
 
 <div style="display: inline_block "><br>
@@ -30,6 +28,7 @@
 </div>
   
 ##
+
 ### Contatos:
 <div> 
   <a href = "mailto:lucassantoslukas2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -38,7 +37,7 @@
 
 ##
 
-### Alguns repositórios que valem a pena:
+### Alguns repositórios que valem a pena dar uma olhada:
 
 <a href="https://github.com/GiltMonster/First_API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiltMonster&repo=First_API&theme=material-palenight" />

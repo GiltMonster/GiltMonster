@@ -24,7 +24,9 @@
   <img align="center" alt="Gilt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gilt-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gilt-pic" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Gilt-pic" height="30"  src="https://gpvc.arturio.dev/giltmonster">
   <img align="right" alt="Gilt-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1012087339780145214/1097324096527794207/lucas.png?width=676&height=676">
+  
 </div>
   
 ##
@@ -33,6 +35,7 @@
 <div> 
   <a href = "mailto:lucassantoslukas2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucassantosc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
 ##

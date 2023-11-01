@@ -19,12 +19,12 @@
   <img align="center" alt="Gilt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gilt-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Gilt-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+  <img align="center" alt="Gilt-pic" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Gilt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gilt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gilt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gilt-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gilt-pic" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Gilt-pic" height="30"  src="https://gpvc.arturio.dev/giltmonster">
   <img align="right" alt="Gilt-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1012087339780145214/1097324096527794207/lucas.png?width=676&height=676">
   
 </div>
@@ -42,6 +42,12 @@
 
 ### Alguns repositórios que valem a pena dar uma olhada:
 
+<a href="https://github.com/GiltMonster/MyPokedex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiltMonster&repo=MyPokedex&theme=material-palenight" />
+</a>
+<a href="https://github.com/GiltMonster/CineTicket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiltMonster&repo=CineTicket&theme=material-palenight" />
+</a>
 <a href="https://github.com/GiltMonster/First_API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiltMonster&repo=First_API&theme=material-palenight" />
 </a>
